@@ -20,18 +20,19 @@ OAC는 ML을 활용한 자동화된 인사이트를 제공하는 증강분석 �
 	 권장 사항(Recommendations) — 데이터 준비 단계에서 데이터를 강화, 정제, 추출 기능 제공
 	 
 	 이상치(Outliers) — 선택된 데이터의 이상치를 표시
+	 
 	 군집(Clusters) — 데이터의 군집을 식별함.
-
-자동설명 기능에 대해 알아보자
-**예금가입여부**칼럼을 선택하고 마우스 우클릭을 하면 다음과 같은 메뉴가 나타난다. 
- <img src=https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/explain_1.JPG width=500px height=450px>
- 
- "예금가입여부 설명"을 클릭한다.
- 화면과 같이 자동 설명 기능이 나타나며, 기본사항 분석은 전체 Bank라는 데이터 집합에 들어있는 데이터 건수를 기준으로 **예금가입여부 칼럼별로 자동 분석한 기본 값**과 **고객접촉일수, 나이, 상담회수 등의 측정값을 기준**으로 예금가입여부에 대해 분석해 준다.
- ![Explain](https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/explain_y.JPG)
- 
-**핵심동인** 분석은 예금가입여부를 기준으로 가장 상관관계가 있는 속성들을 분석해 준다.
-다음 예시의 경우를 보면 실행결과와 월이 상관관계가 있는 것을 알 수 있다.
+	 
+	 **자동설명** 기능에 대해 알아보자
+	 
+	 **예금가입여부**칼럼을 선택하고 마우스 우클릭을 하면 다음과 같은 메뉴가 나타난다. 
+	  <img src=https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/explain_1.JPG width=500px height=450px>
+	  
+	   "예금가입여부 설명"을 클릭한다.
+	   화면과 같이 자동 설명 기능이 나타나며, 기본사항 분석은 전체 Bank라는 데이터 집합에 들어있는 데이터 건수를 기준으로 **예금가입여부 칼럼별로 자동 분석한 기본 값**과 **고객접촉일수, 나이, 상담회수 등의 측정값을 기준**으로 예금가입여부에 대해 분석해 준다.!
+	   ![Explain](https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/explain_y.JPG)
+	   **핵심동인** 분석은 예금가입여부를 기준으로 가장 상관관계가 있는 속성들을 분석해 준다.
+	   다음 예시의 경우를 보면 실행결과와 월이 상관관계가 있는 것을 알 수 있다.
 즉, 예금가입여부를 위한 캠페인을 실행한 결과가 성공인 고객이 예금가입을 더 많이 하는 결과를 자동으로 알 수 있다.
 
 **세크먼트**분석은 해당 분석항목의 데이터 속성에 가장 일치할 다른 항목들의 데이터 속성을 분석하는 부분이며, **이상치**의 경우 one-class SVM을 이용한 데이터의 이상치를 내타내준다.
@@ -48,6 +49,6 @@ OAC는 ML을 활용한 자동화된 인사이트를 제공하는 증강분석 �
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzY2NTkyNiw0NjU4MTIxOCwtMjA1Mz
-MxODIxNiw2Njk5MjQ3NDNdfQ==
+eyJoaXN0b3J5IjpbMzAzODU1NzUzLDQ2NTgxMjE4LC0yMDUzMz
+E4MjE2LDY2OTkyNDc0M119
 -->
