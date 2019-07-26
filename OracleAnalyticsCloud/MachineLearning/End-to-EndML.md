@@ -49,9 +49,10 @@ OAC는 ML을 활용한 자동화된 인사이트를 제공하는 증강분석 �
 
 상단에서 다운받은 bank_sample.xlsx 파일을 "여기에 데이터 파일을 놓거나 눌러서 찾아보기"에 끌어다 놓으면 해당 데이터를 자동으로 읽어 OAC에서 분석할 수 있는 형태로 보여준다.
 
+![Explain](https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/prep_dataset.JPG)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTQwNDIyMiw0NjU4MTIxOCwtMjA1Mz
-MxODIxNiw2Njk5MjQ3NDNdfQ==
+eyJoaXN0b3J5IjpbLTExMTk4NzY5LDQ2NTgxMjE4LC0yMDUzMz
+E4MjE2LDY2OTkyNDc0M119
 -->
