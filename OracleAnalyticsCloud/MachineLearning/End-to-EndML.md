@@ -66,8 +66,9 @@ OAC는 ML을 활용한 자동화된 인사이트를 제공하는 증강분석 �
 
 화면 우상단의 **프로젝트 생성** 버튼을 눌러 증강분석을 실행해보자
 
-- 데이터 탐색
+- 탐색적 분석
+자동 설명 기능을 통한 데이터의 탐색적 분석을 실시할 수 있다. 이미 위에서 기본 사항, 핵심동인을 살펴보았고, 세그
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzIyODA2NDUsODk1NTMyMjU3LDQ2NT
-gxMjE4LC0yMDUzMzE4MjE2LDY2OTkyNDc0M119
+eyJoaXN0b3J5IjpbOTg5NTQ1ODU3LDg5NTUzMjI1Nyw0NjU4MT
+IxOCwtMjA1MzMxODIxNiw2Njk5MjQ3NDNdfQ==
 -->
