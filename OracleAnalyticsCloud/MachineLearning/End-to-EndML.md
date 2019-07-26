@@ -73,10 +73,12 @@ OAC는 ML을 활용한 자동화된 인사이트를 제공하는 증강분석 �
 ![Explain](https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/explain_s.JPG)
 
 다음은 시각화를 살펴보자
+시각화 컴포넌트는 막대, 선, 콤보, 방사형, 박스플롯 등 다양한 플러그인을 제공하며, 기타 컴포넌트는 지속적으로 오라클 분석 라이브러리에 업데이트되어 사용할 수 있다.
+![Viz](https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/vizplugin.JPG)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTU4OTI2MDksLTExMTcwNjE3NDMsOD
-k1NTMyMjU3LDQ2NTgxMjE4LC0yMDUzMzE4MjE2LDY2OTkyNDc0
-M119
+eyJoaXN0b3J5IjpbMjA5NDgyMTYzMiwtMTExNzA2MTc0Myw4OT
+U1MzIyNTcsNDY1ODEyMTgsLTIwNTMzMTgyMTYsNjY5OTI0NzQz
+XX0=
 -->
