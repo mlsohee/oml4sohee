@@ -13,19 +13,14 @@ OAC는 ML을 활용한 자동화된 인사이트를 제공하는 증강분석 �
 데이터와 함께 오라클 분석 클라우드로 만들어놓은 프로젝트 파일(.dva)를 사용할 수 있습니다.
 **예제 다운로드 파일**
 
- 1. [ ] 
- 2. [ ] 
- 3. ###
-
-스마트한 기능 : 자동 설명(Explain), 권장 사항(Recommendations), 이상치(Outliers) 및 군집(Clusters) 등
-
-자동 설명(Explain) — 칼럼에 대한 기본 측정값 기준의 설명, 다른 속성값의 분석, 세그먼트 분석 및 이상치 등
-
-권장 사항(Recommendations) — 데이터 준비 단계에서 데이터를 강화, 정제, 추출 기능 제공
-
-이상치(Outliers) — 선택된 데이터의 이상치를 표시
-
-군집(Clusters) — 데이터의 군집을 식별함.
+ 1. 스마트한 기능 : 자동 설명(Explain), 권장 사항(Recommendations), 이상치(Outliers) 및 군집(Clusters) 등
+	 
+	 자동 설명(Explain) — 칼럼에 대한 기본 측정값 기준의 설명, 다른 속성값의 분석, 세그먼트 분석 및 이상치 등
+	 
+	 권장 사항(Recommendations) — 데이터 준비 단계에서 데이터를 강화, 정제, 추출 기능 제공
+	 
+	 이상치(Outliers) — 선택된 데이터의 이상치를 표시
+	 군집(Clusters) — 데이터의 군집을 식별함.
 
 자동설명 기능에 대해 알아보자
 **예금가입여부**칼럼을 선택하고 마우스 우클릭을 하면 다음과 같은 메뉴가 나타난다. 
@@ -41,6 +36,9 @@ OAC는 ML을 활용한 자동화된 인사이트를 제공하는 증강분석 �
 
 **세크먼트**분석은 해당 분석항목의 데이터 속성에 가장 일치할 다른 항목들의 데이터 속성을 분석하는 부분이며, **이상치**의 경우 one-class SVM을 이용한 데이터의 이상치를 내타내준다.
 
+ 2. GUI기반의 ML 알고리즘
+
+오라클 분석 클라우드는
 
 ### 데이터 사이언스 파이프라인
 
@@ -50,6 +48,6 @@ OAC는 ML을 활용한 자동화된 인사이트를 제공하는 증강분석 �
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDYwNDQ2MSw0NjU4MTIxOCwtMjA1Mz
+eyJoaXN0b3J5IjpbMjExNzY2NTkyNiw0NjU4MTIxOCwtMjA1Mz
 MxODIxNiw2Njk5MjQ3NDNdfQ==
 -->
