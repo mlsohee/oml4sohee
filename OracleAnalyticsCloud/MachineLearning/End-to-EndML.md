@@ -24,16 +24,18 @@ OAC는 ML을 활용한 자동화된 인사이트를 제공하는 증강분석 �
 군집(Clusters) — 데이터의 군집을 식별함.
 
 자동설명 기능에 대해 알아보자
+**예금가입여부**칼럼을 선택하고 마우스 우클릭을 하면 다음과 같은 메뉴가 나타난다. 
+ <img src=https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/explain_1.JPG width=500px height=450px>
  
-![설명](https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/explain_1.JPG width=)
-<img src=https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/explain_1.JPG width=500px height=500px>
- 
+ "예금가입여부 설명"을 클릭한다.
+ <img src=https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/explain_y.JPG width=600px height=500px>
+
 ### 데이터 사이언스 파이프라인
 1. 데이터 적재
 2. 햄버거메뉴 ⇒ 데이터 ⇒ 데이터 흐름 ⇒ 데이터흐름 생성 ⇒ 데이터 흐름 ⇒ 추가
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjcwMjc0ODUsLTIwNTMzMTgyMTYsNj
-Y5OTI0NzQzXX0=
+eyJoaXN0b3J5IjpbLTkwMjg2ODk1NCwtMjA1MzMxODIxNiw2Nj
+k5MjQ3NDNdfQ==
 -->
