@@ -57,8 +57,12 @@ OAC는 ML을 활용한 자동화된 인사이트를 제공하는 증강분석 �
 어떤 요일에 가입캠페인의 실행 성공이 많았는지 확인하기 위해 **실행일자에서 주 단위 일**을 클릭하면 다음과 같은 **실행일자 요일 1** 칼럼이 생성된다. 칼럼 우상단에 마우스를 클릭하면 햄버커버튼이 나오고, 해당 메뉴를 클릭하여 이름 바꾸기를 클릭한다.
 ![Explain](https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/newcolumn.JPG)
 
+해당 이름을 **실행요일**로 변경하고 **단계추가**ㅂ
 ![Explain](https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/rename.JPG)
+
+
+![Explain](https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/applyscript.JPG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDk5Mzg1MCw0NjU4MTIxOCwtMjA1Mz
+eyJoaXN0b3J5IjpbMTQ2NDAxNzc1OSw0NjU4MTIxOCwtMjA1Mz
 MxODIxNiw2Njk5MjQ3NDNdfQ==
 -->
