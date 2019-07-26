@@ -51,8 +51,8 @@ OAC는 ML을 활용한 자동화된 인사이트를 제공하는 증강분석 �
 
 ![Explain](https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/prep_dataset.JPG)
 
-
+추가버튼을 클릭하여 새로운 데이터 집합을 만들면, 증강분석의 **권장사항** 기능을 확인할 수 있다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTk4NzY5LDQ2NTgxMjE4LC0yMDUzMz
-E4MjE2LDY2OTkyNDc0M119
+eyJoaXN0b3J5IjpbLTkyMTM5NjA0Nyw0NjU4MTIxOCwtMjA1Mz
+MxODIxNiw2Njk5MjQ3NDNdfQ==
 -->
