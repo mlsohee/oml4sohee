@@ -60,9 +60,11 @@ OAC는 ML을 활용한 자동화된 인사이트를 제공하는 증강분석 �
 해당 이름을 **실행요일**로 변경하고 마우스를 다른 곳으로 클릭하면 **단계추가**버튼이 활성화되고, 해당 버튼을 클릭한다.
 ![add](https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/rename.JPG)
 
-왼쪽의 준비스크립트를 보면 변경된 항목들이 아직 적용되지 않아 파란색 동그라미로 나오고 **스크립트 적용**버튼을 클
+왼쪽의 준비스크립트를 보면 변경된 항목들이 아직 적용되지 않아 파란색 동그라미로 나오고 **스크립트 적용**버튼을 클릭하면, 분석할 준비가 된 상태가 된다.
 ![Explain](https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/applyscript.JPG)
+
+화면 우상단의 **프로젝트 생성** 버튼을 눌러 증강분석을 실행해보자
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzNTE1MDQyLDQ2NTgxMjE4LC0yMDUzMz
+eyJoaXN0b3J5IjpbODk1NTMyMjU3LDQ2NTgxMjE4LC0yMDUzMz
 E4MjE2LDY2OTkyNDc0M119
 -->
