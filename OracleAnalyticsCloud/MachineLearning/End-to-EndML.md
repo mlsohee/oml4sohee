@@ -49,20 +49,20 @@ OAC는 ML을 활용한 자동화된 인사이트를 제공하는 증강분석 �
 
 상단에서 다운받은 bank_sample.xlsx 파일을 "여기에 데이터 파일을 놓거나 눌러서 찾아보기"에 끌어다 놓으면 해당 데이터를 자동으로 읽어 OAC에서 분석할 수 있는 형태로 보여준다.
 
-![Explain](https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/prep_dataset.JPG)
+![AddDataSet](https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/prep_dataset.JPG)
 
 추가버튼을 클릭하여 새로운 데이터 집합을 만들면, 증강분석의 **권장사항** 기능을 확인할 수 있다.
-![Explain](https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/recommendation.JPG)
+![Recommendation](https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/recommendation.JPG)
 
 어떤 요일에 가입캠페인의 실행 성공이 많았는지 확인하기 위해 **실행일자에서 주 단위 일**을 클릭하면 다음과 같은 **실행일자 요일 1** 칼럼이 생성된다. 칼럼 우상단에 마우스를 클릭하면 햄버커버튼이 나오고, 해당 메뉴를 클릭하여 이름 바꾸기를 클릭한다.
-![Explain](https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/newcolumn.JPG)
+![rename](https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/newcolumn.JPG)
 
-해당 이름을 **실행요일**로 변경하고 **단계추가**ㅂ
-![Explain](https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/rename.JPG)
+해당 이름을 **실행요일**로 변경하고 마우스를 다른 곳으로 클릭하면 **단계추가**버튼이 활성화되고, 해당 버튼을 클릭한다.
+![add](https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/rename.JPG)
 
-
+왼쪽의 준비스크립트를 보면 변경된 항목들이 아직 적용되지 않아 파란색 동그라미로 나오고 **스크립트 적용**버튼을 클
 ![Explain](https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/applyscript.JPG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NDAxNzc1OSw0NjU4MTIxOCwtMjA1Mz
-MxODIxNiw2Njk5MjQ3NDNdfQ==
+eyJoaXN0b3J5IjpbODMzNTE1MDQyLDQ2NTgxMjE4LC0yMDUzMz
+E4MjE2LDY2OTkyNDc0M119
 -->
