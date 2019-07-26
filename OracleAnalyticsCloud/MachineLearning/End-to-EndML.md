@@ -33,7 +33,9 @@ OAC는 ML을 활용한 자동화된 인사이트를 제공하는 증강분석 �
  
 핵심동인 분석은 예금가입여부를 기준으로 가장 상관관계가 있는 속성들을 분석해 준다.
 다음 예시의 경우를 보면 실행결과와 월이 상관관계가 있는 것을 알 수 있다.
-즉, 예금가입여부를 위한 캠페인을 실행
+즉, 예금가입여부를 위한 캠페인을 실행한 결과가 성공인 고객이 예금가입을 더 많이 하는 결과를 자동으로 알 수 있다.
+
+
 
 ### 데이터 사이언스 파이프라인
 1. 데이터 적재
@@ -41,6 +43,6 @@ OAC는 ML을 활용한 자동화된 인사이트를 제공하는 증강분석 �
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDA5NTM2NTksLTIwNTMzMTgyMTYsNj
-Y5OTI0NzQzXX0=
+eyJoaXN0b3J5IjpbLTYwMTM4MjM4MCwtMjA1MzMxODIxNiw2Nj
+k5MjQ3NDNdfQ==
 -->
