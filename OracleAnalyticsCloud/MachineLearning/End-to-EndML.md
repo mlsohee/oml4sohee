@@ -25,6 +25,8 @@ OAC는 ML을 활용한 자동화된 인사이트를 제공하는 증강분석 �
 
 자동설명 기능에 대해 알아보자
  
+![설명](https://github.com/mlsohee/oml4sohee/blob/master/OracleAnalyticsCloud/MachineLearning/img/explain_1.JPG)
+ 
  
 ### 데이터 사이언스 파이프라인
 1. 데이터 적재
@@ -32,5 +34,6 @@ OAC는 ML을 활용한 자동화된 인사이트를 제공하는 증강분석 �
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTMzMTgyMTYsNjY5OTI0NzQzXX0=
+eyJoaXN0b3J5IjpbMTA2NjE1ODg2OSwtMjA1MzMxODIxNiw2Nj
+k5MjQ3NDNdfQ==
 -->
