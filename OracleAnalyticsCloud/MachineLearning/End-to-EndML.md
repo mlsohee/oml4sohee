@@ -26,8 +26,11 @@ OAC는 ML을 활용한 자동화된 인사이트를 제공하는 증강분석 �
 자동설명 기능에 대해 알아보자
  
  
+### 데이터 사이언스 파이프라인
+1. 데이터 적재
+2. 햄버거메뉴 ⇒ 데이터 ⇒ 데이터 흐름 ⇒ 데이터흐름 생성 ⇒ 데이터 흐름 ⇒ 추가
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY5OTI0NzQzXX0=
+eyJoaXN0b3J5IjpbLTIwNTMzMTgyMTYsNjY5OTI0NzQzXX0=
 -->
