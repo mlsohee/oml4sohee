@@ -45,10 +45,13 @@ OAC는 ML을 활용한 자동화된 인사이트를 제공하는 증강분석 �
  - 데이터 적재
 데이터 적재를 위해 햄버거메뉴 ⇒ 데이터 ⇒ 데이터 집합으로 이동한다.
 또는 홈화면으로 이동하면, 생성버튼이 나타난다. **생성 ⇒ 데이터 집합** 을 클릭한다.
+![Explain](https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/newdataset.JPG)
+
+상단에서 다운받은 bank.xlsx 파일을 "여기에 데이터 파일을 놓거나 눌러서 찾아보기"에 끌어다 놓으면 해당 데이터를 자동으로 일
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzk1MjE2NDUsNDY1ODEyMTgsLTIwNT
-MzMTgyMTYsNjY5OTI0NzQzXX0=
+eyJoaXN0b3J5IjpbLTcxMTk4NDA0MSw0NjU4MTIxOCwtMjA1Mz
+MxODIxNiw2Njk5MjQ3NDNdfQ==
 -->
