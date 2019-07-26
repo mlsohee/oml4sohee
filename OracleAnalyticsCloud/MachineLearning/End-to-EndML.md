@@ -43,11 +43,12 @@ OAC는 ML을 활용한 자동화된 인사이트를 제공하는 증강분석 �
 데이터 확인 및 적재, 탐색적 분석, 데이터 준비, 모델링, 모델 평가의 순서로 이루어진다. 
 
  - 데이터 적재
-데이터 적재를 위해 햄버거메뉴 ⇒ 데이터 ⇒ 데이터 집합 
-또는 생성버튼 ⇒ 데이터 집합 을 클릭한다.
+데이터 적재를 위해 햄버거메뉴 ⇒ 데이터 ⇒ 데이터 집합으로 이동한다.
+또는 홈화면으로 이동하면, 생성버튼이 나타난다. **생성 ⇒ 데이터 집합** 을 클릭한다.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTExMDUwNDUsNDY1ODEyMTgsLTIwNT
+eyJoaXN0b3J5IjpbLTEwMzk1MjE2NDUsNDY1ODEyMTgsLTIwNT
 MzMTgyMTYsNjY5OTI0NzQzXX0=
 -->
