@@ -31,6 +31,9 @@ OAC는 ML을 활용한 자동화된 인사이트를 제공하는 증강분석 �
  화면과 같이 자동 설명 기능이 나타나며, 기본사항 분석은 전체 Bank라는 데이터 집합에 들어있는 데이터 건수를 기준으로 **예금가입여부 칼럼별로 자동 분석한 기본 값**과 **고객접촉일수, 나이, 상담회수 등의 측정값을 기준**으로 예금가입여부에 대해 분석해 준다.
  ![Explain](https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/explain_y.JPG)
  
+핵심동인 분석은 예금가입여부를 기준으로 가장 상관관계가 있는 속성들을 분석해 준다.
+다음 예시의 경우를 보면 실행결과와 월이 상관관계가 있는 것을 알 수 있다.
+즉, 예금가입여부를 위한 캠페인을 실행
 
 ### 데이터 사이언스 파이프라인
 1. 데이터 적재
@@ -38,6 +41,6 @@ OAC는 ML을 활용한 자동화된 인사이트를 제공하는 증강분석 �
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxOTIxMTk1MywtMjA1MzMxODIxNiw2Nj
-k5MjQ3NDNdfQ==
+eyJoaXN0b3J5IjpbLTIwMDA5NTM2NTksLTIwNTMzMTgyMTYsNj
+Y5OTI0NzQzXX0=
 -->
