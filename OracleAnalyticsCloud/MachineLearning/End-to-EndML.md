@@ -52,7 +52,10 @@ OAC는 ML을 활용한 자동화된 인사이트를 제공하는 증강분석 �
 ![Explain](https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/prep_dataset.JPG)
 
 추가버튼을 클릭하여 새로운 데이터 집합을 만들면, 증강분석의 **권장사항** 기능을 확인할 수 있다.
+![Explain](https://github.com/mlsohee/oml4sohee/raw/master/OracleAnalyticsCloud/MachineLearning/img/recommendation.JPG)
+
+어떤 요일에 가입캠페인의 실행 성공이 많았는지 확인하기 위해 **실행일자에서 주 단위 일**을 클릭하면 다음과 같은 실일
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTM5NjA0Nyw0NjU4MTIxOCwtMjA1Mz
-MxODIxNiw2Njk5MjQ3NDNdfQ==
+eyJoaXN0b3J5IjpbNTQ2MjU5Mzg1LDQ2NTgxMjE4LC0yMDUzMz
+E4MjE2LDY2OTkyNDc0M119
 -->
