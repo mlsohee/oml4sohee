@@ -40,14 +40,14 @@ OAC는 ML을 활용한 자동화된 인사이트를 제공하는 증강분석 �
 통상적으로 데이터 과학자들이 접근하는 방법을 따라 우리도 ML 알고리즘을 실행해보자.
 
 ### 데이터 사이언스 파이프라인
-데이터 확인 및 적재, 분석
+데이터 확인 및 적재, 탐색적 분석, 데이터 준비, 모델링, 모델 평가의 순서로 이루어진다. 
 
  - 데이터 적재
-데이터 적재를 위해 햄버거메뉴 ⇒ 데이터 ⇒ 데이터 흐름 
-또는 생성버튼 ⇒ 데이터흐름 ⇒ 추가
+데이터 적재를 위해 햄버거메뉴 ⇒ 데이터 ⇒ 데이터 집합 
+또는 생성버튼 ⇒ 데이터 집합 을 클릭한다.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NzEyNTAwNCw0NjU4MTIxOCwtMjA1Mz
-MxODIxNiw2Njk5MjQ3NDNdfQ==
+eyJoaXN0b3J5IjpbLTE1OTExMDUwNDUsNDY1ODEyMTgsLTIwNT
+MzMTgyMTYsNjY5OTI0NzQzXX0=
 -->
